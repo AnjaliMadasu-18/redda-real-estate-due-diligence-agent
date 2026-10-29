@@ -1,0 +1,18 @@
+# React frontend
+Redda-frontend/node_modules/
+Redda-frontend/dist/
+Redda-frontend/.env
+Redda-frontend/.env.*
+!Redda-frontend/.env.example
+
+# Spring Boot generated files
+backend/target/
+backend/.apt_generated/
+backend/.apt_generated_tests/
+
+# Logs
+*.log
+
+# IDE files
+**/.idea/
+**/.vscode/
